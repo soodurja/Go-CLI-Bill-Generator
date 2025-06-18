@@ -1,6 +1,4 @@
-### ✅ Here's a polished `README.md` you can **paste directly into VS Code** to replace the current content:
-
-````markdown
+````
 # Go CLI Bill Generator
 
 This is a beginner-friendly command-line application built in **Go (Golang)** that allows users to create and manage simple bills for a cafe or restaurant. The goal of this project is to help understand the fundamentals of the Go language through a practical and interactive project.
